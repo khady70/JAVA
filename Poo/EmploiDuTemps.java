@@ -1,4 +1,4 @@
-public class EmploiDuTemps {
-    private String[]
+class EmploiDuTemps {
+    
     
 }
